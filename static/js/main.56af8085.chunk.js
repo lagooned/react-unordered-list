@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-unordered-list"]=this["webpackJsonpreact-unordered-list"]||[]).push([[0],{4:function(e,t,i){"use strict";i.r(t);var r=i(0),s=(i(2),i(3));i.n(s).a.render(Object(r.jsxs)("ul",{children:[Object(r.jsx)("li",{children:"listitemone"}),Object(r.jsx)("li",{children:"listitemtwo"}),Object(r.jsx)("li",{children:"listitemthree"})]}),document.getElementById("root"))}},[[4,1,2]]]);
+//# sourceMappingURL=main.56af8085.chunk.js.map
