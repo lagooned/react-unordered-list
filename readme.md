@@ -1,6 +1,6 @@
 # react-unordered-list
 
-initial exercise of [learn react js - full course for beginners - tutorial 2019](https://www.youtube.com/watch?v=DLX62G4lc44), in which we are asked to fill out the boiler plate for a basic react app.
+initial exercise of [learn react js - full course for beginners - tutorial 2019](https://www.youtube.com/watch?v=DLX62G4lc44), in which we are asked to fill out the boiler plate for a basic react app. It is hosted [here](https://lagooned.github.io/react-unordered-list).
 
 ## steps
 1. run npm init inside the dir
